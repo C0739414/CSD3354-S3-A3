@@ -18,6 +18,7 @@ namespace Assign3
 
     class TextProcessing
     {
+        Queue<string> names = new Queue<string>();
         public void Run()
         {
             // Open the names file and access the data
@@ -28,7 +29,7 @@ namespace Assign3
 
                 while ((ln = file.ReadLine()) != null)
                 {
-                    Console.WriteLine(ln);
+                    names.Enqueue(ln);
                     counter++;
                 }
                 file.Close();
