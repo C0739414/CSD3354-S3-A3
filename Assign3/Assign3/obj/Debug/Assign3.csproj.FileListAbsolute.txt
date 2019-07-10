@@ -1,0 +1,7 @@
+U:\Users\739414\Assign3\Assign3\Assign3\bin\Debug\Assign3.exe.config
+U:\Users\739414\Assign3\Assign3\Assign3\bin\Debug\Assign3.exe
+U:\Users\739414\Assign3\Assign3\Assign3\bin\Debug\Assign3.pdb
+U:\Users\739414\Assign3\Assign3\Assign3\obj\Debug\Assign3.csprojAssemblyReference.cache
+U:\Users\739414\Assign3\Assign3\Assign3\obj\Debug\Assign3.csproj.CoreCompileInputs.cache
+U:\Users\739414\Assign3\Assign3\Assign3\obj\Debug\Assign3.exe
+U:\Users\739414\Assign3\Assign3\Assign3\obj\Debug\Assign3.pdb
