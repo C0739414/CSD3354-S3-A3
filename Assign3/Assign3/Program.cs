@@ -15,9 +15,11 @@ namespace Assign3
             //tp.Run();
             //Blue b1 = new Blue();
             //b1.SayFavoriteFood(Red.FavoriteFood);
-           new Blue().SayFavoriteFood(Red.FavoriteFood);
+            new Blue().SayFavoriteFood(Red.FavoriteFood);
         }
     }
+
+
 
     class TextProcessing
     {
@@ -55,6 +57,7 @@ namespace Assign3
             foreach (var item in tangerine)
             {
                 names.Push(tangerine.Dequeue());
+
             }
         }
     }
